@@ -56,6 +56,7 @@
 11. https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 12. https://onlinecourses.science.psu.edu/stat501/node/250
 13. https://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/
+14. http://blog.yhat.com/posts/self-organizing-maps-2.html
 
 # CNN
 1. https://github.com/dorajam/Convolutional-Network
